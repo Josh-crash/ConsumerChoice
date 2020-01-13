@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#006600</color>
+    <color name="colorAccent">#FFECB3  </color>
+    <color name="milk_white">#FEFCFF</color>
+    <color name="deep_green">#AED581</color>
+    <color name="light_green">#66BB6A </color>
+    <color name="new_gradient_white">#FAFAFA</color>
+    <color name="new_gradient">#F5F5F5</color>
+    <color name="off_white">#F7F9F9</color>
+</resources>
